@@ -14,4 +14,4 @@ For this refactoring project, I used a combination of VS Code, Terminal, Github,
 I faced some challenges with adding the semantic HTML elements when deciding where to keep the <div> elements and where to add sematic language. I also had to research how to combine CSS selectors and was able to complete it in the end.
 
 ### How to access the application
-
+https://kyndallmae.github.io/Refactoring-of-Horiseon/ 
